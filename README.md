@@ -50,3 +50,6 @@ else:
         st.session_state.message = ""
         st.session_state.game_over = False
         st.session_state.user_guess = ""
+
+
+![image alt](https://github.com/KondepuSirisha8/Number-guessing-Game/blob/main/Screenshot%202025-06-02%20151641.png?raw=true)
